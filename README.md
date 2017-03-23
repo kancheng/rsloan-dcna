@@ -1,4 +1,4 @@
-# rsloanDCNA
+# rsloan-dcna
  R function for row NA
 
 為 R  data,frame 橫列處理 NA 的 function 。
